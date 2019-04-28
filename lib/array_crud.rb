@@ -37,7 +37,7 @@ retrieve_element_from_index[2]
 end
 
 def retrieve_first_element_from_array(array)
-retrieve_first_element_from_array = = ["wow", "I", "am", "really", "learning", "arrays!"]
+retrieve_first_element_from_array = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 retrieve_first_element_from_array.first
 end
