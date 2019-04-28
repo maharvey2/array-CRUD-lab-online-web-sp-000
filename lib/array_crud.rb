@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-add_element_to_end_of_array.push("colson")
+add_element_to_end_of_array.push(4, "colson")
 end
 
 def add_element_to_start_of_array(array, element)
